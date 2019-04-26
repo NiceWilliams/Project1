@@ -1,0 +1,47 @@
+{
+  "name": "spaceship",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@types/enzyme": "^3.9.1",
+    "@types/enzyme-adapter-react-16": "^1.0.5",
+    "@types/jest": "^24.0.11",
+    "@types/node": "11.13.7",
+    "@types/react": "16.8.14",
+    "@types/react-dom": "16.8.4",
+    "@types/react-redux": "^7.0.8",
+    "@types/redux-logger": "^3.0.7",
+    "enzyme": "^3.9.0",
+    "enzyme-adapter-react-16": "^1.12.1",
+    "node-sass": "^4.11.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-redux": "^7.0.2",
+    "react-scripts": "3.0.0",
+    "redux": "^4.0.1",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.3.0",
+    "typescript": "3.4.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
